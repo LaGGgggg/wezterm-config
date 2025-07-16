@@ -8,4 +8,3 @@ Changes from the default config:
   - Turn on [hide_tab_bar_if_only_one_tab](https://wezterm.org/config/lua/config/hide_tab_bar_if_only_one_tab.html)
   - Mouse bindings
     - Pasting from clipboard on a right click
-

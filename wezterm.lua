@@ -19,4 +19,3 @@ config.mouse_bindings = {
 
 
 return config
-
