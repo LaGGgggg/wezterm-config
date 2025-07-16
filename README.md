@@ -1,6 +1,10 @@
 My config for the [WezTerm](https://wezterm.org) (Windows)
 
 Changes from the default config:
-  - Increased max line length: 88 -> 120
-  - Quote style changed to single
-  - Lint rules: all except some [Dxxx](https://docs.astral.sh/ruff/rules/#pydocstyle-d) rules
+- Visual
+  - Font size (12 -> 10)
+- Feautres
+  - Changed [default_prog](https://wezterm.org/config/lua/config/default_prog.html) to use Powershell
+  - Turn on [hide_tab_bar_if_only_one_tab](https://wezterm.org/config/lua/config/hide_tab_bar_if_only_one_tab.html)
+  - Mouse bindings
+    - Pasting from clipboard on a right click
